@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "filesize",
+      "setup": "./setup.sh",
+      "run": "./filesize.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
